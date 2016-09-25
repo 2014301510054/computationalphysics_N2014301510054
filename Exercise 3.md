@@ -12,6 +12,7 @@
 #致谢
 多谢马士全同学对本次作业的帮助。
 #主体
+```python
 import os
 import time
 qwhitespace = ['        ', '        ', '        ', '        ', '        ', '        ', '        ']
@@ -61,3 +62,8 @@ def main():
     name = name.lower()  # exchange what you input into lower case letters
     yourname(name,lens)
 main()
+```
+
+
+
+
