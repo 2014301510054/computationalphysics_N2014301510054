@@ -1,3 +1,4 @@
+
 #摘要
 这是第三次作业，主要是在屏幕上打上自己的英文名字，并让自己的英文名字在电脑上移动起来
 #背景
@@ -63,7 +64,4 @@ def main():
     yourname(name,lens)
 main()
 ```
-
-
-
-
+![作业图](https://github.com/2014301510054/computationalphysics_N2014301510054/blob/master/%E5%8A%A8%E5%9B%BE.gif)
